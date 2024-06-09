@@ -16,6 +16,17 @@ footer ul {
   flex-direction: row;
 }
 
+/* Other styles */
+
+@media (min-width: 768px) {
+  .box-shadow-full {
+    padding: 3rem;
+    background-color: #b7b0b0;
+  }
+}
+
+/* More styles */
+
 section div .row {
   /* change this property */
   background-color: #ffffff;
