@@ -4,14 +4,6 @@
   padding: 0;
 }
 
-/* Target all images */
-/* optional */
-img {
-    width: 1000px;  /* Set your desired width */
-    height: 550px; /* Set your desired height */
-    object-fit: cover; /* Ensures images cover the set dimensions without distortion */
-}
-
 body {
   background-color: #f5f5f5;
   color: #4e4e4e;
