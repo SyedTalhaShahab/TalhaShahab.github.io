@@ -1,4 +1,4 @@
-# https://syedtalhashahab.github.io/TalhaShahab.github.io/
+# https://syedtalhashahab.github.io
 
 This is my website that shows various completed projects.
 
